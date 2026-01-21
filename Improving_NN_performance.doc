@@ -11,7 +11,7 @@ Improving Neural Network Performance
     - Early Stopping
 
 3. Normalization
-    - Normalizing Inputs
+    - Normalizing Inputs  -- Normalize the input features in same range (eg: Salary numbers are very high so need normalization basically scaling)
     - Batch Normalization
     - Normalizing Activations
 
